@@ -1,0 +1,4 @@
+{
+    "marketDataUrl": "/market-data",
+    "priceHistoryUrl": "/mdt/public-pricehistory/"
+}
